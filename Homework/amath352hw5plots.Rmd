@@ -1,0 +1,14 @@
+---
+title: "Final Exam Problem 2 Part e"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Final Exam Problem 2 Part e:
+
+```{r echo=F, out.width = "100%", fig.align = "center"}
+knitr::include_graphics("finalexamplot.png")
+```
